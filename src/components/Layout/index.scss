@@ -20,7 +20,7 @@
 }
 
 .bottom-tag-html {
-  margin-left: -20pxp;
+  margin-left: -20px;
 }
 
 .container {
@@ -85,9 +85,16 @@
       }
     }
 
+    h2 {
+      font-size: 33px;
+      font-family: 'Coolvetica';
+      color: #ffd700;
+      font-weight: 400;
+    }
+
 
     p {
-      font-size: 13px;
+      font-size: 1.6em;
       color: #fff;
       font-family: sans-serif;
       font-weight: 300;
@@ -104,6 +111,14 @@
 
       &:nth-of-type(3) {
         animation-delay: 1.3s;
+      }
+
+      &:nth-of-type(4) {
+        animation-delay: 1.4s;
+      }
+
+      &:nth-of-type(5) {
+        animation-delay: 1.5s;
       }
     }
   }
