@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-partfolio-novik/static/css/main.b8ce5d0e.css",
+    "main.js": "/react-partfolio-novik/static/js/main.c811abed.js",
+    "static/js/787.ae056a25.chunk.js": "/react-partfolio-novik/static/js/787.ae056a25.chunk.js",
+    "static/media/LaBelleAurore.woff2": "/react-partfolio-novik/static/media/LaBelleAurore.a5f294da234eafeb9701.woff2",
+    "static/media/logo-s.png": "/react-partfolio-novik/static/media/logo-s.f1c7729b60d79e97181d.png",
+    "static/media/LaBelleAurore.woff": "/react-partfolio-novik/static/media/LaBelleAurore.c8126c09ff075a009ccb.woff",
+    "static/media/helvetica-neu.ttf": "/react-partfolio-novik/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/CoolveticaRg-Regular.woff": "/react-partfolio-novik/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-partfolio-novik/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-partfolio-novik/index.html",
+    "main.b8ce5d0e.css.map": "/react-partfolio-novik/static/css/main.b8ce5d0e.css.map",
+    "main.c811abed.js.map": "/react-partfolio-novik/static/js/main.c811abed.js.map",
+    "787.ae056a25.chunk.js.map": "/react-partfolio-novik/static/js/787.ae056a25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ce5d0e.css",
+    "static/js/main.c811abed.js"
+  ]
+}
