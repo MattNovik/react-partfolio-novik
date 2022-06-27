@@ -48,9 +48,8 @@ const About = () => {
           </p>
           <p>
             I develop on HTML, JS(React + have exp. with VUE), CSS(SASS, Less/
-            can use BEM),
+            can use BEM), Node.js, PHP, Gulp, simple CSS + SVG animation.
           </p>
-          <p>Node.js, PHP, Gulp, simple CSS + SVG animation.</p>
           <p>
             Have experience of working in a development team for six months.
           </p>
@@ -59,7 +58,47 @@ const About = () => {
             myself.
           </p>
           <div className="project-links">
-            <h2>Here you can check my own projects:</h2>
+            <h2>
+              <AnimatedLetters
+                letterClass={letterClass}
+                strArray={[
+                  "H",
+                  "e",
+                  "r",
+                  "e",
+                  " ",
+                  "y",
+                  "o",
+                  "u",
+                  " ",
+                  "c",
+                  "a",
+                  "n",
+                  " ",
+                  "c",
+                  "h",
+                  "e",
+                  "c",
+                  "k",
+                  " ",
+                  "m",
+                  "y",
+                  " ",
+                  "own",
+                  " ",
+                  "p",
+                  "r",
+                  "o",
+                  "j",
+                  "e",
+                  "c",
+                  "t",
+                  "s",
+                  ":",
+                ]}
+                idx={1}
+              />
+            </h2>
             <ul className="project-links__list">
               <li>
                 <a
