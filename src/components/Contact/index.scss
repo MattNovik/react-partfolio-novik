@@ -86,11 +86,6 @@
   animation-fill-mode: forwards;
 
   @media (max-width: 1023px) {
-    top: calc(60% + 40px);
-    right: 33%;
-  }
-
-  @media (max-width: 767px) {
     display: none;
   }
 
@@ -110,9 +105,9 @@
   position: relative;
 
   @media (max-width: 1023px) {
-    height: 35%;
+    height: 30%;
     width: 70%;
-    top: 60%;
+    top: 540px;
     left: -10%;
   }
 

@@ -160,13 +160,14 @@
 .contact-page {
   .text-zone {
     @media (max-width: 1023px) {
-      top: 30%;
+      top: 290px;
       width: 70%;
       left: 20%;
     }
 
     @media (max-width: 767px) {
       top: 330px;
+      left: 10%;
     }
   }
 }
