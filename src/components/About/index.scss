@@ -63,7 +63,7 @@
   }
 }
 
-.project-links {
+.project-links {  
   &__list {
     display: flex;
     column-gap: 4em;
@@ -86,7 +86,6 @@
 
     a {
       font-size: 3em;
-      line-height: 3.2em;
       color: #3F84E5;
 
       svg {

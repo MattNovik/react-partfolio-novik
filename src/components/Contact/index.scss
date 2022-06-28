@@ -66,6 +66,10 @@
     border: solid 1px #ffd700;
     float: right;
     border-radius: 4px;
+
+    @media (max-width: 767px) {
+      float: left;
+    }
   }
 }
 
