@@ -67,6 +67,7 @@
   &__list {
     display: flex;
     column-gap: 4em;
+    row-gap: 2em;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -74,6 +75,13 @@
     @media (max-width: 767px) {
       flex-wrap: wrap;
       justify-content: center;
+    }
+
+    li {
+      @media (max-width: 767px) {
+        height: 3.2em;
+        z-index: 100;
+      }
     }
 
     a {

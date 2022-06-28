@@ -10,6 +10,7 @@
 
   @media (max-width: 767px) {
     top: 60px;
+    display: none;
   }
 }
 
@@ -24,6 +25,7 @@
 
   @media (max-width: 767px) {
     left: 30px;
+    display: none;
   }
 }
 
@@ -120,6 +122,7 @@
 
       @media (max-width: 767px) {
         font-size: 20px;
+        text-align: center;
       }
     }
 
@@ -166,8 +169,9 @@
     }
 
     @media (max-width: 767px) {
-      top: 330px;
+      top: 280px;
       left: 10%;
+      width: 80%;
     }
   }
 }
